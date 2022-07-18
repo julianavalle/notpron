@@ -203,3 +203,7 @@ pron letter inside level = a
 ## 37. LEVEL 37
 - [Level 37 page](https://deathball.net/notpron/nomeaning/observe.htm)
 - Solve by [url](https://deathball.net/notpron/nomeaning/elvis.htm)
+
+## 38. LEVEL 38
+- [Level 38 page](https://deathball.net/notpron/nomeaning/elvis2.htm)
+- Solve by [url](https://deathball.net/notpron/nomeaning/flower.htm)
