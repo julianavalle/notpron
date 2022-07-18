@@ -14,60 +14,48 @@
 
 ### 4. LEVEL 4
 
-- [Level 3 page](https://www.deathball.net/notpron/true/movetotheothersite.php)
+- [Level 4 page](https://www.deathball.net/notpron/true/movetotheothersite.php)
 
 - Solved by password:
 	- username: voodoo
 	- password: magic
 
-LEVEL 5
-
-	https://www.deathball.net/notpron/google/shestheoneforme.php
-
-	senha
-	simple
-	songs
-
-LEVL 6
-
-	https://www.deathball.net/notpron/nothing/hesgotitall.php
-
-	senha
-	kill
-	zone
+### 5. LEVEL 5
+- [Level 5 page](https://www.deathball.net/notpron/google/shestheoneforme.php)
+- Solved by password:
+	- username: simple
+	- password: songs
 	
-LEVEL 7
-
-	https://www.deathball.net/notpron/sdrawkcab/tieman.htm
-
-	url
-	https://www.deathball.net/notpron/sdrawkcab/rediar.htm
-
-LEVEL 8
+### 6. LEVEL 6
+- [Level 6 page](https://www.deathball.net/notpron/nothing/hesgotitall.php)
+- Solved by password:
+	- username: kill
+	- password: zone	
 	
-	https://www.deathball.net/notpron/sdrawkcab/rediar.htm
+### 7. LEVEL 7
+- [Level 7 page](https://www.deathball.net/notpron/sdrawkcab/tieman.htm)
+- Solved by [url](https://www.deathball.net/notpron/sdrawkcab/rediar.htm)
 
-	senha
-	inverted
-	tenthlevel
+### 8. LEVEL 8
+- [Level 8 page](https://www.deathball.net/notpron/sdrawkcab/rediar.htm)	
+- Solved by password:
+	- username: inverted
+	- password: tenthlevel
 
-LEVEL 9
+### 9. LEVEL 9
+- [Level 9 page](https://www.deathball.net/notpron/luv2music/paulisdead.htm)
+- Solved by password:
+	- username: turnmeon
+	- password: deadman
 
-	https://www.deathball.net/notpron/luv2music/paulisdead.htm
 
-	senha
-	turnmeon
-	deadman
+### 10. LEVEL 10
+- [Level 9 page](https://www.deathball.net/notpron/wrong/roawr.htm)
+- Solved by password:
+	- username: dark
+	- password: times
 
-LEVL 10
-
-	https://www.deathball.net/notpron/wrong/roawr.htm
-
-	senha
-	dark
-	times
-
-LEVEL 11
+### 11. LEVEL 11
 
 	https://www.deathball.net/notpron/reality/mystery.htm
 
