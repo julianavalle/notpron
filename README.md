@@ -93,7 +93,7 @@
 
 ### 17. LEVEL 17
 - [Level 17 page](https://www.deathball.net/notpron/finale/pron.htm)
-- Solved by [url](https://www.deathball.net/notpron/finale/lamp.htm))
+- Solved by [url](https://www.deathball.net/notpron/finale/lamp.htm)
 ``` shell
 pron letter inside level = o
 ```
@@ -118,59 +118,61 @@ pron letter inside level = r, n, o, g
 	- password: unfair
 
 ### 21. LEVEL 21
-- [Level 20 page](https://www.deathball.net/notpron/twentyone/again.htm)
+- [Level 21 page](https://www.deathball.net/notpron/twentyone/again.htm)
 - Solved by password:
 	- username: getting
 	- password: smarter
 ``` shell
 pron letter inside level = r
-```	
+```
 
+## 22. LEVEL 22
+- [Level 22 page](https://www.deathball.net/notpron/beepbeep/banana.htm)
+- Solved by [url](https://www.deathball.net/notpron/beepbeep/unexpected.htm)
 
-LEVEL 22
-	https://www.deathball.net/notpron/beepbeep/banana.htm
-	TEM LETRA DE PRON = a
+``` shell
+pron letter inside level = a
+```
+
+### 23. LEVEL 23
+- [Level 23 page](https://www.deathball.net/notpron/beepbeep/unexpected.htm)
+- Solved by [url](https://www.deathball.net/notpron/beepbeep/sound.htm)
+
+### 24. LEVEL 24
+- [Level 24 page](https://www.deathball.net/notpron/beepbeep/sound.htm)
+- Solved by [url](https://www.deathball.net/notpron/beepbeep/xylophone.htm)
+
+### 25. LEVEL 25
+- [Level 25 page](https://www.deathball.net/notpron/beepbeep/xylophone.htm)
+- Solved by password:
+	- username: wilder
+	- password: wolves
+
+### 26. LEVEL 26
+- [Level 26 page](http://deathball.net/notpron/screen26/)
+- Solved by:
+	- zip image	
+
+### 27. LEVEL 27
+- zip folder
+- Solved by [url](http://notpron.org/pron/screen26/)
+
+### 28. LEVEL 28
+- [Level 28 page](http://notpron.org/pron/screen26/)
+- Solved by [url](https://notpron.org/pron/screen29/)
+
+### 29. LEVEL 29
+- [Level 29 page](https://notpron.org/pron/screen29/)
+- Solved by [url](http://notpron.org/notpron/screen30/) 
+- and password:
+	- username: rockin
+	- password: boppin
+
+### 30. LEVEL 30
+- [Level 30 page](https://notpron.org/notpron/screen30/)
+
 	
-	url
-	https://www.deathball.net/notpron/beepbeep/unexpected.htm
-
-LEVEL 23
-
-	https://www.deathball.net/notpron/beepbeep/unexpected.htm
-
-	url
-	https://www.deathball.net/notpron/beepbeep/sound.htm
-
-LEVL 24
-
-	https://www.deathball.net/notpron/beepbeep/sound.htm
-
-	url
-	https://www.deathball.net/notpron/beepbeep/xylophone.htm
-
-LEVEL 25
-
-	https://www.deathball.net/notpron/beepbeep/xylophone.htm
-	senha:
-	wilder
-	wolves
-
-LEVEL 26
-	http://deathball.net/notpron/screen26/
-	zipar a imagem
-
-LEVEL 27
-	pasta zipada
-	url http://notpron.org/pron/screen26/
-
-LEVEL 28
-	http://notpron.org/pron/screen26/
-	url https://notpron.org/pron/screen29/
-
-LEVEL 29
-	https://notpron.org/pron/screen29/
-	rockin
-	boppin
+	
 	
 
 	
