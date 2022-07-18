@@ -50,67 +50,55 @@
 
 
 ### 10. LEVEL 10
-- [Level 9 page](https://www.deathball.net/notpron/wrong/roawr.htm)
+- [Level 10 page](https://www.deathball.net/notpron/wrong/roawr.htm)
 - Solved by password:
 	- username: dark
 	- password: times
 
 ### 11. LEVEL 11
+- [Level 11 page](https://www.deathball.net/notpron/reality/mystery.htm)
+- Solved by password:
+	- username: fucking
+	- password: pans
 
-	https://www.deathball.net/notpron/reality/mystery.htm
+### 12. LEVEL 12
+- [Level 12 page](https://www.deathball.net/notpron/blame/crossview.htm)
+- Solved by password:
+	- username: remote
+	- password: control
 
-	senha
-	fucking
-	pans
+### 13. LEVEL 13
+- [Level 13 page](https://www.deathball.net/notpron/ps/afterdeath.htm)
+- Solved by password:
+	- username: devil
+	- password: hell
 
-LEVEL 12
+### 14. LEVEL 14
+- [Level 14 page](https://www.deathball.net/notpron/neo/beenthere.htm)
+- Solved by password:
+	- username: deja
+	- password: vu
 
-	https://www.deathball.net/notpron/blame/crossview.htm
+### 15.LEVEL 15
+- [Level 15 page](https://www.deathball.net/notpron/rusty/board.htm)
+- Solved by password:
+	- username: random
+	- password: access
 
-	senha
-	remote
-	control
+### 16. LEVEL 16
+- [Level 16 page](https://www.deathball.net/notpron/zoo/mznvh.htm)
+- Solved by password:
+	- username: doom
+	- password: murder
 
-LEVEL 13
-	
-	https://www.deathball.net/notpron/ps/afterdeath.htm
+### 17. LEVEL 17
+- [Level 17 page](https://www.deathball.net/notpron/finale/pron.htm)
+- Solved by [url](https://www.deathball.net/notpron/finale/lamp.htm))
 
-	senha
-	devil
-	hell
+``` shell
+pron letter in this level =  O
+```
 
-LEVEL 14
-
-	https://www.deathball.net/notpron/neo/beenthere.htm
-
-	senha
-	deja
-	vu
-
-LEVEL 15
-
-	https://www.deathball.net/notpron/rusty/board.htm
-
-	senha
-	random
-	access
-
-LEVEL 16
-	
-	https://www.deathball.net/notpron/zoo/mznvh.htm
-
-	senha
-	doom
-	murder
-
-LEVEL 17
-	
-	https://www.deathball.net/notpron/finale/pron.htm
-
-	TEM LETRA DE PRON = O
-	https://www.deathball.net/notpron/finale/notpron.htm
-	
-	url https://www.deathball.net/notpron/finale/lamp.htm
 
 LEVEL 18
 	https://www.deathball.net/notpron/finale/lamp.htm
