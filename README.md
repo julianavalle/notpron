@@ -174,6 +174,11 @@ pron letter inside level = a
 
 ### 31. LEVEL 31
 - [Level 31 page](http://notpron.org/notpron/screen30/davidandhism2.htm)
+### 31. LEVEL 31
+- [Level 31 page](http://notpron.org/notpron/screen30/davidandhism2.htm)
+- Solved by [url](https://notpron.org/notpron/screen30/hirstein.htm)
 
+### 32. LEVEL 32
+- [Level 32 page](https://notpron.org/notpron/screen30/hirstein.htm)
 
 	
