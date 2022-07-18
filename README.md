@@ -94,43 +94,38 @@
 ### 17. LEVEL 17
 - [Level 17 page](https://www.deathball.net/notpron/finale/pron.htm)
 - Solved by [url](https://www.deathball.net/notpron/finale/lamp.htm))
-
 ``` shell
-pron letter in this level =  O
+pron letter inside level = o
 ```
 
+### 18. LEVEL 18
+- [Level 18 page](https://www.deathball.net/notpron/finale/lamp.htm
+- Solved by [url](https://www.deathball.net/notpron/finale/deaf.htm)	
+``` shell
+pron letter inside level = r, n, o, g
+```
 
-LEVEL 18
-	https://www.deathball.net/notpron/finale/lamp.htm
-	TEM LETRA DE PRON = r,n,o,g
+### 19. LEVEL 19
+- [Level 19 page](https://www.deathball.net/notpron/finale/deaf.htm)
+- Solved by password:
+	- username: unusual
+	- password: stuff	
 
-	https://www.deathball.net/notpron/finale/deaf.htm
+### 20. LEVEL 20
+- [Level 20 page](https://www.deathball.net/notpron/windows/something.php)
+- Solved by password:
+	- username: really
+	- password: unfair
 
-LEVEL 19
+### 21. LEVEL 21
+- [Level 20 page](https://www.deathball.net/notpron/twentyone/again.htm)
+- Solved by password:
+	- username: getting
+	- password: smarter
+``` shell
+pron letter inside level = r
+```	
 
-	https://www.deathball.net/notpron/finale/deaf.htm
-	
-	senha
-	unusual
-	stuff
-
-LEVEL20
-
-	https://www.deathball.net/notpron/windows/something.php
-
-	senha
-	really
-	unfair
-
-LEVEL 21
-
-	
-	https://www.deathball.net/notpron/twentyone/again.htm
-	TEM LETRA DE PRON = r
-
-	senha:
-	getting
-	smarter
 
 LEVEL 22
 	https://www.deathball.net/notpron/beepbeep/banana.htm
