@@ -170,11 +170,10 @@ pron letter inside level = a
 
 ### 30. LEVEL 30
 - [Level 30 page](https://notpron.org/notpron/screen30/)
+- Solved by [url](http://notpron.org/notpron/screen30/davidandhism.htm)
+
+### 31. LEVEL 31
+- [Level 31 page](http://notpron.org/notpron/screen30/davidandhism.htm)	
+
 
 	
-	
-
-
-	
-	
-teste
