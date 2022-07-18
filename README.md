@@ -183,6 +183,12 @@ pron letter inside level = a
 - Solved by [url](https://notpron.org/notpron/screen30/macroscopic.htm)
 
 ### 33. LEVEL 33
--[Level 33 page](https://notpron.org/notpron/screen30/macroscopic.htm)
+- [Level 33 page](https://notpron.org/notpron/screen30/macroscopic.htm)
 - Solved by [url](https://notpron.org/notpron/screen30/kewlday.htm)
-	
+- 
+### 34. LEVEL 34
+- [Level 34 page](https://notpron.org/notpron/screen30/kewlday.htm)
+- Solved by [url](https://notpron.org/notpron/screen30/unleadedfuel.htm)
+
+### 35. LEVEL 35
+- [Level 35 page](https://notpron.org/notpron/screen30/unleadedfuel.htm)
