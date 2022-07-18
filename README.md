@@ -214,3 +214,8 @@ pron letter inside level = a
 
 ## 40. LEVEL 40
 - [Level 40 page](https://deathball.net/notpron/nomeaning/stfuandgetmetothefuckingscreen40.htm)
+- Solve by [url](https://deathball.net/notpron/nomeaning/next.htm)
+
+## 41. LEVEL 41
+- [Level 41 page](https://deathball.net/notpron/nomeaning/next.htm)
+
