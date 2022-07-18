@@ -173,7 +173,7 @@ pron letter inside level = a
 - Solved by [url](http://notpron.org/notpron/screen30/davidandhism.htm)
 
 ### 31. LEVEL 31
-- [Level 31 page](http://notpron.org/notpron/screen30/davidandhism.htm)	
+- [Level 31 page](http://notpron.org/notpron/screen30/davidandhism2.htm)
 
 
 	
