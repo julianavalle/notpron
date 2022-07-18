@@ -184,5 +184,5 @@ pron letter inside level = a
 
 ### 33. LEVEL 33
 -[Level 33 page](https://notpron.org/notpron/screen30/macroscopic.htm)
-
+- Solved by [url](https://notpron.org/notpron/screen30/kewlday.htm)
 	
