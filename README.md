@@ -207,3 +207,10 @@ pron letter inside level = a
 ## 38. LEVEL 38
 - [Level 38 page](https://deathball.net/notpron/nomeaning/elvis2.htm)
 - Solve by [url](https://deathball.net/notpron/nomeaning/flower.htm)
+
+## 39. LEVEL 39
+- [Level 39 page](https://deathball.net/notpron/nomeaning/flower.htm)
+- Solve by [url](https://deathball.net/notpron/nomeaning/boobies.htm)
+
+## 40. LEVEL 40
+- [Level 40 page](https://deathball.net/notpron/nomeaning/stfuandgetmetothefuckingscreen40.htm)
