@@ -1,27 +1,24 @@
 # NOTPRON
 
-### * LEVEL2
-[Level 2 page](http://notpron.org/notpron/not/level2.htm)
-
-solved by [url](http://notpron.org/notpron/not/level3.htm)
-
-
-LEVEL3
-
-	http://www.deathball.net/notpron/false/movetotheothersite.php
-
-	url
-
-	http://www.deathball.net/notpron/true/movetotheothersite.php
+### 2. LEVEL 2
+- [Level 2 page](http://notpron.org/notpron/not/level2.htm)
+- Solved by [url](http://notpron.org/notpron/not/level3.htm)
 
 
-LEVEL 4
+### 3. LEVEL 3
 
-	https://www.deathball.net/notpron/true/movetotheothersite.php
+- [Level 3 page](http://www.deathball.net/notpron/false/movetotheothersite.php)
 
-	senha
-	voodoo
-	magic
+- Solved by [url](http://www.deathball.net/notpron/true/movetotheothersite.php)
+
+
+### 4. LEVEL 4
+
+- [Level 3 page](https://www.deathball.net/notpron/true/movetotheothersite.php)
+
+- Solved by password:
+	- username: voodoo
+	- password: magic
 
 LEVEL 5
 
