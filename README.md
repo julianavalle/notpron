@@ -1,6 +1,6 @@
 # NOTPRON
 
-### - LEVEL2
+### * LEVEL2
 [Level 2 page](http://notpron.org/notpron/not/level2.htm)
 
 solved by [url](http://notpron.org/notpron/not/level3.htm)
