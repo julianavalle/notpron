@@ -180,5 +180,9 @@ pron letter inside level = a
 
 ### 32. LEVEL 32
 - [Level 32 page](https://notpron.org/notpron/screen30/hirstein.htm)
+- Solved by [url](https://notpron.org/notpron/screen30/macroscopic.htm)
+
+### 33. LEVEL 33
+-[Level 33 page](https://notpron.org/notpron/screen30/macroscopic.htm)
 
 	
