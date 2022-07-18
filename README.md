@@ -196,6 +196,6 @@ pron letter inside level = a
 	- username: mickey
 	- password: mouse
 
-## 36, LEVEL 36
+## 36. LEVEL 36
 - [Level 35 page](http://deathball.net/notpron/nomeaning/)
 - Solved by [url](https://deathball.net/notpron/nomeaning/observe.htm)
