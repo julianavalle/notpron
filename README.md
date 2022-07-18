@@ -192,3 +192,6 @@ pron letter inside level = a
 
 ### 35. LEVEL 35
 - [Level 35 page](https://notpron.org/notpron/screen30/unleadedfuel.htm)
+- Solved by password:
+	- username: mickey
+	- password: mouse
