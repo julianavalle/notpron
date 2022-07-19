@@ -216,4 +216,8 @@ pron letter inside level = a
 
 ### 41. LEVEL 41
 - [Level 41 page](https://deathball.net/notpron/nomeaning/next.htm)
+- Solved by [url](https://deathball.net/notpron/nomeaning/genius.htm)
+
+##42. LEVEL 42
+- [Level 42 page](https://deathball.net/notpron/nomeaning/genius.htm)
 
