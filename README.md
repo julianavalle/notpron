@@ -220,4 +220,8 @@ pron letter inside level = a
 
 ##42. LEVEL 42
 - [Level 42 page](https://deathball.net/notpron/nomeaning/genius.htm)
+- Solved by [url](https://deathball.net/notpron/nomeaning/scottymorris.htm)
+
+##43. LEVEL 43
+- [Level 43 page](https://deathball.net/notpron/nomeaning/scottymorris.htm)
 
