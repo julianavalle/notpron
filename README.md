@@ -218,14 +218,14 @@ pron letter inside level = a
 - [Level 41 page](https://deathball.net/notpron/nomeaning/next.htm)
 - Solved by [url](https://deathball.net/notpron/nomeaning/genius.htm)
 
-##42. LEVEL 42
+### 42. LEVEL 42
 - [Level 42 page](https://deathball.net/notpron/nomeaning/genius.htm)
 - Solved by [url](https://deathball.net/notpron/nomeaning/scottymorris.htm)
 
-##43. LEVEL 43
+### 43. LEVEL 43
 - [Level 43 page](https://deathball.net/notpron/nomeaning/scottymorris.htm)
 - Solved by [url](https://deathball.net/notpron/nomeaning/verysmall.htm)
 
-##44. LEVEL 44
+### 44. LEVEL 44
 - [Level 44 page](https://deathball.net/notpron/nomeaning/verysmall.htm)
 
