@@ -174,8 +174,6 @@ pron letter inside level = a
 
 ### 31. LEVEL 31
 - [Level 31 page](http://notpron.org/notpron/screen30/davidandhism2.htm)
-### 31. LEVEL 31
-- [Level 31 page](http://notpron.org/notpron/screen30/davidandhism2.htm)
 - Solved by [url](https://notpron.org/notpron/screen30/hirstein.htm)
 
 ### 32. LEVEL 32
@@ -185,7 +183,7 @@ pron letter inside level = a
 ### 33. LEVEL 33
 - [Level 33 page](https://notpron.org/notpron/screen30/macroscopic.htm)
 - Solved by [url](https://notpron.org/notpron/screen30/kewlday.htm)
-- 
+
 ### 34. LEVEL 34
 - [Level 34 page](https://notpron.org/notpron/screen30/kewlday.htm)
 - Solved by [url](https://notpron.org/notpron/screen30/unleadedfuel.htm)
@@ -196,26 +194,26 @@ pron letter inside level = a
 	- username: mickey
 	- password: mouse
 
-## 36. LEVEL 36
+### 36. LEVEL 36
 - [Level 36 page](http://deathball.net/notpron/nomeaning/)
 - Solved by [url](https://deathball.net/notpron/nomeaning/observe.htm)
 
-## 37. LEVEL 37
+### 37. LEVEL 37
 - [Level 37 page](https://deathball.net/notpron/nomeaning/observe.htm)
-- Solve by [url](https://deathball.net/notpron/nomeaning/elvis.htm)
+- Solved by [url](https://deathball.net/notpron/nomeaning/elvis.htm)
 
-## 38. LEVEL 38
+### 38. LEVEL 38
 - [Level 38 page](https://deathball.net/notpron/nomeaning/elvis2.htm)
-- Solve by [url](https://deathball.net/notpron/nomeaning/flower.htm)
+- Solved by [url](https://deathball.net/notpron/nomeaning/flower.htm)
 
-## 39. LEVEL 39
+### 39. LEVEL 39
 - [Level 39 page](https://deathball.net/notpron/nomeaning/flower.htm)
-- Solve by [url](https://deathball.net/notpron/nomeaning/boobies.htm)
+- Solved by [url](https://deathball.net/notpron/nomeaning/boobies.htm)
 
-## 40. LEVEL 40
+### 40. LEVEL 40
 - [Level 40 page](https://deathball.net/notpron/nomeaning/stfuandgetmetothefuckingscreen40.htm)
-- Solve by [url](https://deathball.net/notpron/nomeaning/next.htm)
+- Solved by [url](https://deathball.net/notpron/nomeaning/next.htm)
 
-## 41. LEVEL 41
+### 41. LEVEL 41
 - [Level 41 page](https://deathball.net/notpron/nomeaning/next.htm)
 
