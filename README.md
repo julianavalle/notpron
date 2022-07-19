@@ -224,4 +224,8 @@ pron letter inside level = a
 
 ##43. LEVEL 43
 - [Level 43 page](https://deathball.net/notpron/nomeaning/scottymorris.htm)
+- Solved by [url](https://deathball.net/notpron/nomeaning/verysmall.htm)
+
+##44. LEVEL 44
+- [Level 44 page](https://deathball.net/notpron/nomeaning/verysmall.htm)
 
