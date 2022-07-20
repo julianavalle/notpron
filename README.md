@@ -246,3 +246,7 @@ pron letter inside level = a
 
 ### 48. LEVEL 48
 - [Level 48 page](https://deathball.net/notpron/threethreethree/gbdim.htm)
+- Solved by [url](https://deathball.net/notpron/threethreethree/saintseve.php)
+
+### 49. LEVEL 49
+- [Level 49 page](https://deathball.net/notpron/threethreethree/saintseve.php)
