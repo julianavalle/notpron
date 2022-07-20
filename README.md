@@ -232,4 +232,8 @@ pron letter inside level = a
 
 ### 45. LEVEL 45
 - [Level 45 page](https://deathball.net/notpron/nomeaning/blow.htm)
+- Solved by [url](https://deathball.net/notpron/nomeaning/fyrtiosex.htm)
+
+### 46. LEVEL 46
+- [Level 46 page](https://deathball.net/notpron/nomeaning/fyrtiosex.htm)
 
