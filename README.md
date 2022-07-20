@@ -264,4 +264,7 @@ pron letter inside level = a
 
 ### 52. LEVEL 52
 - [Level 52 page](https://deathball.net/notpron/flutsch/xyzzy.htm)
+- Solved by [url](https://deathball.net/notpron/flutsch/bleach.htm)
 
+### 53. LEVEL 53
+- [Level 53 page](https://deathball.net/notpron/flutsch/bleach.htm)
