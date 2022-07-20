@@ -280,3 +280,7 @@ pron letter inside level = a
 
 ### 56. LEVEL 56
 - [Level 56 page](https://deathball.net/notpron/flutsch/gentle.htm)
+- Solved by [url](https://deathball.net/notpron/flutsch/soundslikeitisterrible.htm)
+
+### 57. LEVEL 57
+- [Level 57 page](https://deathball.net/notpron/flutsch/soundslikeitisterrible.htm)
