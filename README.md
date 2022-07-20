@@ -271,4 +271,8 @@ pron letter inside level = a
 - Solved by [url](https://deathball.net/notpron/flutsch/me.htm)
 
 ### 54. LEVEL 54
-- [Level 54 apg](https://deathball.net/notpron/flutsch/me.htm)
+- [Level 54 page](https://deathball.net/notpron/flutsch/me.htm)
+- Solved by [url](https://deathball.net/notpron/flutsch/player.htm)
+
+### 55. LEVEL 55
+- [Level 55 page](https://deathball.net/notpron/flutsch/player.htm)
