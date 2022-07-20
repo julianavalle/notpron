@@ -250,3 +250,9 @@ pron letter inside level = a
 
 ### 49. LEVEL 49
 - [Level 49 page](https://deathball.net/notpron/threethreethree/saintseve.php)
+- Solved by password:
+	- username: 112
+	- password: eurocelsius
+
+### 50. LEVEL 50
+- [Level 50 page](https://deathball.net/notpron/flutsch/index.htm)
