@@ -236,4 +236,9 @@ pron letter inside level = a
 
 ### 46. LEVEL 46
 - [Level 46 page](https://deathball.net/notpron/nomeaning/fyrtiosex.htm)
+- Solved by password:
+	- username: extra
+	- password: fun
 
+### 47. LEVEL 47
+- [Level 47 page](https://deathball.net/notpron/threethreethree/)
