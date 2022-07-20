@@ -256,3 +256,8 @@ pron letter inside level = a
 
 ### 50. LEVEL 50
 - [Level 50 page](https://deathball.net/notpron/flutsch/index.htm)
+- Solved by [url](https://deathball.net/notpron/flutsch/boring.htm)
+- 
+### 51. LEVEL 51
+- [Level 51 page](https://deathball.net/notpron/flutsch/boring.htm)
+
