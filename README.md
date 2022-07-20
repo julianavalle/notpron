@@ -268,3 +268,7 @@ pron letter inside level = a
 
 ### 53. LEVEL 53
 - [Level 53 page](https://deathball.net/notpron/flutsch/bleach.htm)
+- Solved by [url](https://deathball.net/notpron/flutsch/me.htm)
+
+### 54. LEVEL 54
+- [Level 54 apg](https://deathball.net/notpron/flutsch/me.htm)
