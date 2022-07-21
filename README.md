@@ -298,3 +298,7 @@ pron letter inside level = a
 
 ### 60. LEVEL 60
 - [Level 60 page](https://deathball.net/notpron/love/money.htm)
+- Solved by [url](http://www.deathball.net/notpron/love/main.php)
+
+### 61. LEVEL 61
+- [Level 61 page](http://www.deathball.net/notpron/love/main.php)
