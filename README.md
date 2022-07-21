@@ -290,3 +290,7 @@ pron letter inside level = a
 
 ### 58. LEVEL 58
 - [Level 58 page](https://deathball.net/notpron/love/wrongroad.htm)
+- Solved by [url](https://deathball.net/notpron/love/verse.htm)
+
+### 59. LEVEL 59
+- [Level 59 page](https://deathball.net/notpron/love/verse.htm)
