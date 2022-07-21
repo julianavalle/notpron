@@ -284,3 +284,9 @@ pron letter inside level = a
 
 ### 57. LEVEL 57
 - [Level 57 page](https://deathball.net/notpron/flutsch/soundslikeitisterrible.htm)
+- Solved by password:
+	- username: batman
+	- password: turkey
+
+### 58. LEVEL 58
+- [Level 58 page](https://deathball.net/notpron/love/wrongroad.htm)
