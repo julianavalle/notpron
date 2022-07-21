@@ -302,3 +302,7 @@ pron letter inside level = a
 
 ### 61. LEVEL 61
 - [Level 61 page](http://www.deathball.net/notpron/love/main.php)
+- Solved by [url](https://www.deathball.net/notpron/love/usurp.htm)
+
+### 62. LEVEL 62
+- [Level 62 page](https://www.deathball.net/notpron/love/usurp.htm)
