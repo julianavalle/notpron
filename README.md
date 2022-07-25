@@ -329,8 +329,15 @@ pron letter inside level = a
 ``` shell
 pron letter inside level = e
 ```
+
 ### 67. LEVEL 67
 - [Level 67 page 1](http://www.notpron.org/notpron/help/obscure.htm)
 - [Level 67 page 2](http://www.notpron.org/notpron/help/orion.htm)
 - Solved by [url](http://www.notpron.org/notpron/help/betelgeuse.htm)
 
+### 68. LEVEL 68
+- [Level 68 page](http://www.notpron.org/notpron/help/betelgeuse.htm))
+- Solved by [url]()
+``` shell
+pron letter inside level = r
+```
