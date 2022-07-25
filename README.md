@@ -311,3 +311,9 @@ pron letter inside level = a
 ### 63. LEVEL 63
 - [Level 63 page](https://www.deathball.net/notpron/love/cats.htm)
 - Solved by [url](https://www.deathball.net/notpron/love/popular.htm)
+
+### 64. LEVEL 64
+- [Level 64 page](https://www.deathball.net/notpron/love/popular.htm)
+- Solved by [url](https://www.deathball.net/notpron/love/marge.htm)
+
+
