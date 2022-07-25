@@ -316,4 +316,11 @@ pron letter inside level = a
 - [Level 64 page](https://www.deathball.net/notpron/love/popular.htm)
 - Solved by [url](https://www.deathball.net/notpron/love/marge.htm)
 
+### 65. LEVEL 65
+- [Level 65 page](https://www.deathball.net/notpron/love/marge.htm)
+- Solved by password:
+	- username: fake
+	- password: page
 
+### 66. LEVEL 66
+- [Level 66 page](http://www.notpron.org/notpron/help/)
