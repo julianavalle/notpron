@@ -337,7 +337,9 @@ pron letter inside level = e
 
 ### 68. LEVEL 68
 - [Level 68 page](http://www.notpron.org/notpron/help/betelgeuse.htm))
-- Solved by [url]()
+- Solved by password:
+	- username: notpron
+	- password: pwnz
 ``` shell
 pron letter inside level = r
 ```
