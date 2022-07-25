@@ -324,3 +324,8 @@ pron letter inside level = a
 
 ### 66. LEVEL 66
 - [Level 66 page](http://www.notpron.org/notpron/help/)
+- Solved by [url](http://www.notpron.org/notpron/help/obscure.htm)
+
+``` shell
+pron letter inside level = e
+```
