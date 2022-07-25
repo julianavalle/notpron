@@ -343,3 +343,16 @@ pron letter inside level = e
 ``` shell
 pron letter inside level = r
 ```
+
+### 69. LEVEL 69
+- [Level 69 page](http://www.notpron.org/notpron/blub/jaypackknewmore.htm)
+- Solved by password:
+	- username: silent
+	- password: night
+	
+### 70. LEVEL 70
+- [Level 70 page](http://www.notpron.org/notpron/bummel/)
+- Solved by [url](http://www.notpron.org/notpron/bummel/quarterback.htm)
+
+### 71. LEVEL 71
+- [Level 71 page](http://www.notpron.org/notpron/bummel/quarterback.htm)
