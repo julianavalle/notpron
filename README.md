@@ -359,7 +359,7 @@ pron letter inside level = r
 - Solved by [url](http://www.notpron.com/bummel/immediately.htm)
 
 ### 72. LEVEL 72
-- [Level 72 page](http://www.notpron.org/notpron/bummel/quarterback.htm](http://www.notpron.com/bummel/immediately.htm)
+- [Level 72 page](http://www.notpron.com/bummel/immediately.htm)
 - Solved by [url](http://www.notpron.com/bummel/offset.htm)
 
 ### 73. LEVEL 73
