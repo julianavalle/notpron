@@ -366,6 +366,15 @@ pron letter inside level = r
 - [Level 73 page](http://www.notpron.com/bummel/juhu.htm)
 - Solved by [url](http://www.notpron.com/bummel/nothing.htm)
 
-## 74. LEVEL 74
+### 74. LEVEL 74
 - [Level 74 page](http://www.notpron.com/bummel/nothing.htm)
+- Solved by [url](http://www.notpron.com/bummel/fishfry.htm)
+
+### 75. LEVEL 75
+- [Level 75 page](http://www.notpron.com/bummel/fishfry.htm)
+- This level does not exist anymore :(
+
+### 76. LEVEL 76
+- [Level 76 page](http://www.notpron.com/bummel/scandalous.htm)
+
 
