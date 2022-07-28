@@ -376,5 +376,11 @@ pron letter inside level = r
 
 ### 76. LEVEL 76
 - [Level 76 page](http://www.notpron.com/bummel/scandalous.htm)
+-solved by password [url](http://www.notpron.com/underground/)
+user: green
+password: park
+
+### 77. LEVEL 77
+- [Level 77 page](http://www.notpron.com/underground/)
 
 
