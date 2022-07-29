@@ -408,4 +408,15 @@ pron letter inside level = r
 
 ### 81. LEVEL 81
 - [Level 81 page](http://www.notpron.com/jumping/pornographers.htm)
+- Solved by [url](http://www.notpron.com/jumping/iluvu.htm)
 
+### 82. LEVEL 82
+- [Level 82 page](http://www.notpron.com/jumping/thiswouldbelevel82andwhereislevel0.htm)
+- Solved by [url](http://notpron.org/notpron/levelzero.htm)
+
+### 0. LEVEL 0
+- [Level 0 page](http://notpron.org/notpron/levelzero.htm)
+- Solved by [url](http://notpron.org/notpron/levelminusone.htm)
+
+### -1. LEVEL -1
+- [Level -1 page](http://notpron.org/notpron/levelminusone.htm)
