@@ -383,5 +383,11 @@ pron letter inside level = r
 
 ### 77. LEVEL 77
 - [Level 77 page](http://www.notpron.com/underground/)
+-Solved by password
+	- username: rachel
+	-password: bethlehem
+
+### 78. LEVEL 78
+- [Level 78 page](http://www.notpron.com/dead/)
 
 
