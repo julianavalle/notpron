@@ -102,7 +102,7 @@ pron letter inside level = o
 - [Level 18 page](https://www.deathball.net/notpron/finale/lamp.htm)
 - Solved by [url](https://www.deathball.net/notpron/finale/deaf.htm)	
 ``` shell
-pron letter inside level = r, n, o, g
+pron letter inside level = m, r, n, o, g
 ```
 
 ### 19. LEVEL 19
