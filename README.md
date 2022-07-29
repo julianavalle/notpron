@@ -99,7 +99,7 @@ pron letter inside level = o
 ```
 
 ### 18. LEVEL 18
-- [Level 18 page](https://www.deathball.net/notpron/finale/lamp.htm
+- [Level 18 page](https://www.deathball.net/notpron/finale/lamp.htm)
 - Solved by [url](https://www.deathball.net/notpron/finale/deaf.htm)	
 ``` shell
 pron letter inside level = r, n, o, g
@@ -383,9 +383,9 @@ pron letter inside level = r
 
 ### 77. LEVEL 77
 - [Level 77 page](http://www.notpron.com/underground/)
--Solved by password
+- Solved by password:
 	- username: rachel
-	-password: bethlehem
+	- password: bethlehem
 
 ### 78. LEVEL 78
 - [Level 78 page](http://www.notpron.com/dead/)
