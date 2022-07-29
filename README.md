@@ -389,5 +389,8 @@ pron letter inside level = r
 
 ### 78. LEVEL 78
 - [Level 78 page](http://www.notpron.com/dead/)
+- Solved by [url](http://www.notpron.com/dead/pitiful.htm)
 
+### 79. LEVEL 79
+- [Level 79 page](http://www.notpron.com/dead/pitiful.htm)
 
