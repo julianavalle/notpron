@@ -393,4 +393,19 @@ pron letter inside level = r
 
 ### 79. LEVEL 79
 - [Level 79 page](http://www.notpron.com/dead/pitiful.htm)
+- [Go to](http://www.notpron.com/red/index.htm)
+	- username: red
+	- password: pill
+- [Go to](http://www.notpron.com/red/seconddoor.htm)
+- Solved by [url](http://www.notpron.com/jumping/jumping.htm)
+- Solved by password:
+	- username: 1
+	- password: 1001
+
+### 80. LEVEL 80
+- [Level 80 page](http://www.notpron.com/jumping/jumping.htm)
+- Solved by pr0ns [url](http://www.notpron.com/jumping/pornographers.htm)
+
+### 81. LEVEL 81
+- [Level 81 page](http://www.notpron.com/jumping/pornographers.htm)
 
