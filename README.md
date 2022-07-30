@@ -424,4 +424,13 @@ pron letter inside level = r
 
 ### -2. LEVEL -2
 - [Level -2 page](http://notpron.org/notpron/v.htm)
+- Solved by [url](https://notpron.org/notpron/symptomatic.htm)
+
+### -3. LEVEL -3
+- [Level -3 page](https://notpron.org/notpron/symptomatic.htm)
+- Solved by [url](https://notpron.org/notpron/peanut/)
+
+### -4. LEVEL -4
+- [Level -4 page](https://notpron.org/notpron/peanut/)
+- Solved by [url]()
 
