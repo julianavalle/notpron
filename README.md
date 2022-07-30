@@ -420,3 +420,8 @@ pron letter inside level = r
 
 ### -1. LEVEL -1
 - [Level -1 page](http://notpron.org/notpron/levelminusone.htm)
+- Solved by [url](http://notpron.org/notpron/v.htm)
+
+### -2. LEVEL -2
+- [Level -2 page](http://notpron.org/notpron/v.htm)
+
