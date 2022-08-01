@@ -414,23 +414,29 @@ pron letter inside level = r
 - [Level 82 page](http://www.notpron.com/jumping/thiswouldbelevel82andwhereislevel0.htm)
 - Solved by [url](http://notpron.org/notpron/levelzero.htm)
 
-### 0. LEVEL 0
+### 83. LEVEL 0
 - [Level 0 page](http://notpron.org/notpron/levelzero.htm)
 - Solved by [url](http://notpron.org/notpron/levelminusone.htm)
 
-### -1. LEVEL -1
+### 84. LEVEL -1
 - [Level -1 page](http://notpron.org/notpron/levelminusone.htm)
 - Solved by [url](http://notpron.org/notpron/v.htm)
 
-### -2. LEVEL -2
+### 85. LEVEL -2
 - [Level -2 page](http://notpron.org/notpron/v.htm)
 - Solved by [url](https://notpron.org/notpron/symptomatic.htm)
 
-### -3. LEVEL -3
+### 86. LEVEL -3
 - [Level -3 page](https://notpron.org/notpron/symptomatic.htm)
 - Solved by [url](https://notpron.org/notpron/peanut/)
 
-### -4. LEVEL -4
+### 87. LEVEL -4
 - [Level -4 page](https://notpron.org/notpron/peanut/)
-- Solved by [url]()
+- Solved by [url](https://notpron.org/notpron/peanut/red.htm)
 
+### 88. LEVEL -5
+- [Level -5 page](https://notpron.org/notpron/peanut/red.htm)
+- Solved by [url](http://www.deathball.net/notpron/peanut/pi.php)
+
+### 89. LEVEL -6
+- [Level -6 page](http://www.deathball.net/notpron/peanut/difference.php)
