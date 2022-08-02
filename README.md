@@ -459,7 +459,11 @@ pron letter inside level = r
 
 ### 93. LEVEL -10
 - [Level -10 page](https://notpron.org/notpron/peanut/d.htm)
-- Solved bt [url](https://notpron.org/notpron/peanut/latex.php)
+- Solved by [url](https://notpron.org/notpron/peanut/latex.php)
 
 ### 94. LEVEL -11
 - [Level -11 page](https://notpron.org/notpron/peanut/latex.php)
+- Solved by [url](https://notpron.org/notpron/peanut/weave.htm)
+
+### 95. LEVEL -12
+- [Level -12 page](https://notpron.org/notpron/peanut/weave.htm)
