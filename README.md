@@ -440,3 +440,8 @@ pron letter inside level = r
 
 ### 89. LEVEL -6
 - [Level -6 page](http://www.deathball.net/notpron/peanut/difference.php)
+- Solved bt [url](http://www.deathball.net/notpron/peanut/plz.htm)
+
+### 90. LEVEL -7
+- [level -7 page](http://www.deathball.net/notpron/peanut/plz.htm)
+- 
