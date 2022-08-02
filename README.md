@@ -467,15 +467,15 @@ pron letter inside level = r
 
 ### 95. LEVEL -12
 - [Level -12 page](https://notpron.org/notpron/peanut/weave.htm)
--Solved by [url](https://notpron.org/notpron/peanut/mirror.htm)
+- Solved by [url](https://notpron.org/notpron/peanut/mirror.htm)
 
 ### 96. LEVEL -13
--[Level -13](https://notpron.org/notpron/peanut/mirror.htm)
--Solved by [url](https://notpron.org/notpron/peanut/smtp.htm)
+- [Level -13](https://notpron.org/notpron/peanut/mirror.htm)
+- Solved by [url](https://notpron.org/notpron/peanut/smtp.htm)
 
 ### 97. LEVEL -14
--[Level -14](https://notpron.org/notpron/peanut/smtp.htm)
--Solvd by [url](https://notpron.org/notpron/peanut/copy%20of%20smtp.htm)
+- [Level -14](https://notpron.org/notpron/peanut/smtp.htm)
+- Solvd by [url](https://notpron.org/notpron/peanut/copy%20of%20smtp.htm)
 
 ### 98. LEVEL -15
--[Level -15](https://notpron.org/notpron/peanut/copy%20of%20smtp.htm)
+- [Level -15](https://notpron.org/notpron/peanut/copy%20of%20smtp.htm)
