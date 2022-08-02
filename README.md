@@ -471,3 +471,7 @@ pron letter inside level = r
 
 ### 96. LEVEL -13
 -[Level -13](https://notpron.org/notpron/peanut/mirror.htm)
+-Solved by [url](https://notpron.org/notpron/peanut/smtp.htm)
+
+### 97. LEVEL -14
+-[Level -14](https://notpron.org/notpron/peanut/smtp.htm)
