@@ -451,3 +451,7 @@ pron letter inside level = r
 
 ### 91. LEVEL -8
 - [Level -8 page](https://www.deathball.net/notpron/peanut/nobin.htm)
+- Solved by [url](https://notpron.org/notpron/peanut/cage.htm)
+
+### 92. LEVEL -9
+= [Level -9 page](https://notpron.org/notpron/peanut/cage.htm)
