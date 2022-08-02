@@ -440,8 +440,14 @@ pron letter inside level = r
 
 ### 89. LEVEL -6
 - [Level -6 page](http://www.deathball.net/notpron/peanut/difference.php)
-- Solved bt [url](http://www.deathball.net/notpron/peanut/plz.htm)
+- Solved by keywords:
+	- Keyword 1: towel
+	- Keyword 2: phone
+	- Keyword 3: screw
 
 ### 90. LEVEL -7
 - [level -7 page](http://www.deathball.net/notpron/peanut/plz.htm)
-- 
+- Solved by [url](https://www.deathball.net/notpron/peanut/nobin.htm)
+
+### 91. LEVEL -8
+- [Level -8 page](https://www.deathball.net/notpron/peanut/nobin.htm)
