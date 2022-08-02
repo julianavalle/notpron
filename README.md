@@ -454,4 +454,9 @@ pron letter inside level = r
 - Solved by [url](https://notpron.org/notpron/peanut/cage.htm)
 
 ### 92. LEVEL -9
-= [Level -9 page](https://notpron.org/notpron/peanut/cage.htm)
+- [Level -9 page](https://notpron.org/notpron/peanut/cage.htm)
+- Solved by [url](https://notpron.org/notpron/peanut/d.htm)
+
+### 93. LEVEL -10
+- [Level -10 page](https://notpron.org/notpron/peanut/d.htm)
+
