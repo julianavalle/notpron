@@ -479,3 +479,11 @@ pron letter inside level = r
 
 ### 98. LEVEL -15
 - [Level -15 page](https://notpron.org/notpron/peanut/copy%20of%20smtp.htm)
+- Solved by [url](https://notpron.org/notpron/peanut/7053.htm)
+
+### 99. Level -16
+- [level -16 page](https://notpron.org/notpron/peanut/7053.htm)
+- Solved by [url](https://notpron.org/notpron/peanut/extraordinary.htm)
+
+### 100. Level -17
+- [Level -17 page](https://notpron.org/notpron/peanut/extraordinary.htm)
