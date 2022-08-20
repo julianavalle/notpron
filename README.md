@@ -495,3 +495,7 @@ pron letter inside level = r
 
 ### 102. Level -19
 - [Level -19 page](https://www.deathball.net/notpron/peanut/facade.htm)
+- Solved by [url](https://www.deathball.net/notpron/peanut/jenga.htm)
+
+### 102. Level -20
+- [Level -20 page](http://www.deathball.net/notpron/peanut/davidsidea.php)
