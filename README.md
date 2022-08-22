@@ -497,9 +497,9 @@ pron letter inside level = r
 - [Level -19 page](https://www.deathball.net/notpron/peanut/facade.htm)
 - Solved by [url](https://www.deathball.net/notpron/peanut/jenga.htm)
 
-### 102. Level -20
+### 103. Level -20
 - [Level -20 page](http://www.deathball.net/notpron/peanut/davidsidea.php)
 - Solved by word & password. One person in ip A needs to input a word & password and other person with ip B needs to enter the word and input password
 
-### 103. Level -21
+### 104. Level -21
 - [Level -21 page](http://www.deathball.net/notpron/peanut/pneumonia.htm)
