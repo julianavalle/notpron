@@ -504,3 +504,10 @@ pron letter inside level = r
 ### 104. Level -21
 - [Level -21 page](http://www.deathball.net/notpron/peanut/pneumonia.htm)
 - Solved by [url](https://www.deathball.net/notpron/peanut/hitrecord.htm)
+
+### 105. Level -22
+- [Level -22 page](http://www.deathball.net/notpron/peanut/hitrecord.htm)
+- Solved by [url](https://www.deathball.net/notpron/peanut/claim.htm)
+
+### 106. Level -23
+- [Level -23 page](http://www.deathball.net/notpron/peanut/claim.htm)
