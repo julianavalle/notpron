@@ -511,3 +511,7 @@ pron letter inside level = r
 
 ### 106. Level -23
 - [Level -23 page](http://www.deathball.net/notpron/peanut/claim.htm)
+- Solved by [url](https://www.deathball.net/notpron/peanut/nisennasen.htm)
+
+### 107. Level -24
+- [Level -24 page](https://www.deathball.net/notpron/peanut/nisennasen.htm)
