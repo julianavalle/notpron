@@ -112,6 +112,7 @@ pron letter inside level = m, r, n, o, g
 	- password: stuff	
 
 ### 20. LEVEL 20
+Use Wingdings
 - [Level 20 page](https://www.deathball.net/notpron/windows/something.php)
 - Solved by password:
 	- username: really
