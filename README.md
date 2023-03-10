@@ -535,3 +535,5 @@ pron letter inside level = r
 
 ### 111. Level -28
 - [Level -28 page](https://www.deathball.net/notpron/peanut/batch.htm)
+- Solved by [url](https://www.deathball.net/notpron/peanut/hangingonthewall.htm)
+- [Monalisa](http://notpron.org/forum/memberlist.php?mode=viewprofile&u=23171)
