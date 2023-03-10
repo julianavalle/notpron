@@ -524,3 +524,5 @@ pron letter inside level = r
 
 ### 109. Level -26
 - [Level -26 page](https://www.deathball.net/notpron/peanut/clockwork.htm)
+- Solved by [url](https://www.deathball.net/notpron/peanut/witch.htm)
+- [Demo book](http://notpron.org/notpron/demonotpronbook.pdf)
