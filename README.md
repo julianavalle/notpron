@@ -540,3 +540,5 @@ pron letter inside level = r
 
 ### 112. Level -29
 - [Level -29 page](https://www.deathball.net/notpron/peanut/hangingonthewall.htm)
+- Solved by [url](https://www.deathball.net/notpron/peanut/sameas31.htm)
+- Image: -30yyyy
