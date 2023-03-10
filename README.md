@@ -532,3 +532,6 @@ pron letter inside level = r
 - [Level -27 page](https://www.deathball.net/notpron/peanut/witch.htm)
 - Solved by [url](https://www.deathball.net/notpron/peanut/batch.htm)
 - elephantmode
+
+### 111. Level -28
+- [Level -28 page](https://www.deathball.net/notpron/peanut/batch.htm)
