@@ -549,3 +549,7 @@ pron letter inside level = r
 
 ### 114. Level -31
 - [Level -31 page](https://www.deathball.net/notpron/peanut/paraskevidekatriaphobia.php)
+- Solved by [url](http://www.deathball.net/notpron/jingjing/)
+
+### 115. Level -32
+- [Level -32 page](http://www.deathball.net/notpron/jingjing/)
