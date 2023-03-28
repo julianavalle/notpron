@@ -553,3 +553,13 @@ pron letter inside level = r
 
 ### 115. Level -32
 - [Level -32 page](http://www.deathball.net/notpron/jingjing/)
+- Solved by [url](https://www.deathball.net/notpron/jingjing/cuddles.php)
+
+### 116. Level -33
+- [Level -33 page](https://www.deathball.net/notpron/jingjing/cuddles.php)
+- Solved by [url](http://notpron.org/notpron/jerk/)
+-user: rasp
+-password: berries
+
+### 117. Level -34
+- [Level -34 page](http://notpron.org/notpron/jerk/)
