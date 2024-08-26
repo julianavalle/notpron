@@ -561,6 +561,12 @@ pron letter inside level = r
 
 ### 117. Level -34
 - [Level -34 page](http://notpron.com/notpron/jerk2/)
+- go to the base [website](https://deathball.net/notpron/notpron.htm)
+- open source code and find the buttons there is a gfx/1b.gif missing
+- go to the [url](https://deathball.net/notpron/notpron.htm) and find junk
+- go now to the [url](http://notpron.com/notpron/junk.htm) and find it not available in english
+- go now to the [url](http://notpron.com/notpron/junkd.htm). Find the word mir
+- solved by [url](http://notpron.com/notpron/jerk2/mir.php)
 
 
 ### IMAGES -32 - DELTA
