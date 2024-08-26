@@ -568,6 +568,10 @@ pron letter inside level = r
 - go now to the [url](http://notpron.com/notpron/junkd.htm). Find the word mir
 - solved by [url](http://notpron.com/notpron/jerk2/mir.php)
 
+### 118. Level -35
+- [Level -35 page](http://notpron.com/notpron/jerk2/mir.php)
+
+
 
 ### IMAGES -32 - DELTA
 - [Level -32-DELTA images](https://deathball.net/notpron/-32todelta.jpg)
