@@ -574,7 +574,7 @@ pron letter inside level = r
 - Solved with anagram solver using letters (a (wingding), i(Piscis in wingding), e(source code), s(mus2.wav), f(mus1.wav), b(mus1.wav), y(background), i(-35small metadata), i(-35.gif), lt(with autocomplete))
 
 ### 119. Level -36
-- [Level -36 page]](http://notpron.com/notpron/jerk2/feasibility.php)
+- [Level -36 page](http://notpron.com/notpron/jerk2/feasibility.php)
 
 
 ### IMAGES -32 - DELTA
