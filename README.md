@@ -579,7 +579,7 @@ pron letter inside level = r
 
 ### 120. Level -37
 - [Level -37 page](https://notpron.com/notpron/jerk2/stereotype.php)
-- by searching discover that the first line is the sender name, and second is the address, third is postal code
+- solved by searching discover that the first line is the sender name, and second is the address, third is postal code
 - searching kurt in google gives two streets: Kurt-Schumann-Straße and kurt-schumacher-street
 - using each we discover that is schumacherstr.php the result
 - solved by [url](notpron.com/notpron/jerk2/schumacherstr.php)
@@ -590,7 +590,12 @@ pron letter inside level = r
 
 - ### 122. Level -39
 - [Level -39 page](http://notpron.com/notpron/jerk2/notpronpwnz.php)
+- Solved by coonecting the letters in the german kerboard and finding letter ins the pattern
+- like VBHT67 = S
+- solved by [url](notpron.com/notpron/jerk2/snoozy.php)
 
+- ### 123. Level -40
+- [Level -39 page](http://notpron.com/notpron/jerk2/snoozy.php)
 
 
 ### IMAGES -32 - DELTA
