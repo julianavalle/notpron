@@ -579,6 +579,17 @@ pron letter inside level = r
 
 ### 120. Level -37
 - [Level -37 page](https://notpron.com/notpron/jerk2/stereotype.php)
+- by searching discover that the first line is the sender name, and second is the address, third is postal code
+- searching kurt in google gives two streets: Kurt-Schumann-Straße and kurt-schumacher-street
+- using each we discover that is schumacherstr.php the result
+- solved but [url](notpron.com/notpron/jerk2/schumacherstr.php)
+
+### 121. Level -38
+- [Level -38 page](notpron.com/notpron/jerk2/schumacherstr.php)
+- skippable? [url](http://notpron.com/notpron/jerk2/notpronpwnz.php)
+
+- ### 122. Level -39
+- [Level -39 page](http://notpron.com/notpron/jerk2/notpronpwnz.php)
 
 
 
