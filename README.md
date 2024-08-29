@@ -585,7 +585,7 @@ pron letter inside level = r
 - solved by [url](notpron.com/notpron/jerk2/schumacherstr.php)
 
 ### 121. Level -38
-- [Level -38 page](notpron.com/notpron/jerk2/schumacherstr.phP)
+- [Level -38 page](notpron.com/notpron/jerk2/schumacherstr.php)
 - skippable? [url](http://notpron.com/notpron/jerk2/notpronpwnz.php)
 
 - ### 122. Level -39
