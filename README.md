@@ -595,7 +595,7 @@ pron letter inside level = r
 - solved by [url](notpron.com/notpron/jerk2/snoozy.php)
 
 - ### 123. Level -40
-- [Level -39 page](http://notpron.com/notpron/jerk2/snoozy.php)
+- [Level -40 page](http://notpron.com/notpron/jerk2/snoozy.php)
 
 
 ### IMAGES -32 - DELTA
