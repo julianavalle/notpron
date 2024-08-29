@@ -1,8 +1,8 @@
 # NOTPRON
 
 ### 2. LEVEL 2
-- [Level 2 page](http://notpron.org/notpron/not/level2.htm)
-- Solved by [url](http://notpron.org/notpron/not/level3.htm)
+- [Level 2 page](http://notpron.com/notpron/not/level2.htm)
+- Solved by [url](http://notpron.com/notpron/not/level3.htm)
 
 
 ### 3. LEVEL 3
@@ -156,41 +156,41 @@ pron letter inside level = a
 
 ### 27. LEVEL 27
 - zip folder
-- Solved by [url](http://notpron.org/pron/screen26/)
+- Solved by [url](http://notpron.com/pron/screen26/)
 
 ### 28. LEVEL 28
-- [Level 28 page](http://notpron.org/pron/screen26/)
-- Solved by [url](https://notpron.org/pron/screen29/)
+- [Level 28 page](http://notpron.com/pron/screen26/)
+- Solved by [url](https://notpron.com/pron/screen29/)
 
 ### 29. LEVEL 29
-- [Level 29 page](https://notpron.org/pron/screen29/)
-- Solved by [url](http://notpron.org/notpron/screen30/) 
+- [Level 29 page](https://notpron.com/pron/screen29/)
+- Solved by [url](http://notpron.com/notpron/screen30/) 
 - and password:
 	- username: rockin
 	- password: boppin
 
 ### 30. LEVEL 30
-- [Level 30 page](https://notpron.org/notpron/screen30/)
-- Solved by [url](http://notpron.org/notpron/screen30/davidandhism.htm)
+- [Level 30 page](https://notpron.com/notpron/screen30/)
+- Solved by [url](http://notpron.com/notpron/screen30/davidandhism.htm)
 
 ### 31. LEVEL 31
-- [Level 31 page](http://notpron.org/notpron/screen30/davidandhism2.htm)
-- Solved by [url](https://notpron.org/notpron/screen30/hirstein.htm)
+- [Level 31 page](http://notpron.com/notpron/screen30/davidandhism2.htm)
+- Solved by [url](https://notpron.com/notpron/screen30/hirstein.htm)
 
 ### 32. LEVEL 32
-- [Level 32 page](https://notpron.org/notpron/screen30/hirstein.htm)
-- Solved by [url](https://notpron.org/notpron/screen30/macroscopic.htm)
+- [Level 32 page](https://notpron.com/notpron/screen30/hirstein.htm)
+- Solved by [url](https://notpron.com/notpron/screen30/macroscopic.htm)
 
 ### 33. LEVEL 33
-- [Level 33 page](https://notpron.org/notpron/screen30/macroscopic.htm)
-- Solved by [url](https://notpron.org/notpron/screen30/kewlday.htm)
+- [Level 33 page](https://notpron.com/notpron/screen30/macroscopic.htm)
+- Solved by [url](https://notpron.com/notpron/screen30/kewlday.htm)
 
 ### 34. LEVEL 34
-- [Level 34 page](https://notpron.org/notpron/screen30/kewlday.htm)
-- Solved by [url](https://notpron.org/notpron/screen30/unleadedfuel.htm)
+- [Level 34 page](https://notpron.com/notpron/screen30/kewlday.htm)
+- Solved by [url](https://notpron.com/notpron/screen30/unleadedfuel.htm)
 
 ### 35. LEVEL 35
-- [Level 35 page](https://notpron.org/notpron/screen30/unleadedfuel.htm)
+- [Level 35 page](https://notpron.com/notpron/screen30/unleadedfuel.htm)
 - Solved by password:
 	- username: mickey
 	- password: mouse
@@ -324,20 +324,20 @@ pron letter inside level = a
 	- password: page
 
 ### 66. LEVEL 66
-- [Level 66 page](http://www.notpron.org/notpron/help/)
-- Solved by [url](http://www.notpron.org/notpron/help/obscure.htm)
+- [Level 66 page](http://www.notpron.com/notpron/help/)
+- Solved by [url](http://www.notpron.com/notpron/help/obscure.htm)
 
 ``` shell
 pron letter inside level = e
 ```
 
 ### 67. LEVEL 67
-- [Level 67 page 1](http://www.notpron.org/notpron/help/obscure.htm)
-- [Level 67 page 2](http://www.notpron.org/notpron/help/orion.htm)
-- Solved by [url](http://www.notpron.org/notpron/help/betelgeuse.htm)
+- [Level 67 page 1](http://www.notpron.com/notpron/help/obscure.htm)
+- [Level 67 page 2](http://www.notpron.com/notpron/help/orion.htm)
+- Solved by [url](http://www.notpron.com/notpron/help/betelgeuse.htm)
 
 ### 68. LEVEL 68
-- [Level 68 page](http://www.notpron.org/notpron/help/betelgeuse.htm))
+- [Level 68 page](http://www.notpron.com/notpron/help/betelgeuse.htm))
 - Solved by password:
 	- username: notpron
 	- password: pwnz
@@ -346,17 +346,17 @@ pron letter inside level = r
 ```
 
 ### 69. LEVEL 69
-- [Level 69 page](http://www.notpron.org/notpron/blub/jaypackknewmore.htm)
+- [Level 69 page](http://www.notpron.com/notpron/blub/jaypackknewmore.htm)
 - Solved by password:
 	- username: silent
 	- password: night
 	
 ### 70. LEVEL 70
-- [Level 70 page](http://www.notpron.org/notpron/bummel/)
-- Solved by [url](http://www.notpron.org/notpron/bummel/quarterback.htm)
+- [Level 70 page](http://www.notpron.com/notpron/bummel/)
+- Solved by [url](http://www.notpron.com/notpron/bummel/quarterback.htm)
 
 ### 71. LEVEL 71
-- [Level 71 page](http://www.notpron.org/notpron/bummel/quarterback.htm)
+- [Level 71 page](http://www.notpron.com/notpron/bummel/quarterback.htm)
 - Solved by [url](http://www.notpron.com/bummel/immediately.htm)
 
 ### 72. LEVEL 72
@@ -413,30 +413,30 @@ pron letter inside level = r
 
 ### 82. LEVEL 82
 - [Level 82 page](http://www.notpron.com/jumping/thiswouldbelevel82andwhereislevel0.htm)
-- Solved by [url](http://notpron.org/notpron/levelzero.htm)
+- Solved by [url](http://notpron.com/notpron/levelzero.htm)
 
 ### 83. LEVEL 0
-- [Level 0 page](http://notpron.org/notpron/levelzero.htm)
-- Solved by [url](http://notpron.org/notpron/levelminusone.htm)
+- [Level 0 page](http://notpron.com/notpron/levelzero.htm)
+- Solved by [url](http://notpron.com/notpron/levelminusone.htm)
 
 ### 84. LEVEL -1
-- [Level -1 page](http://notpron.org/notpron/levelminusone.htm)
-- Solved by [url](http://notpron.org/notpron/v.htm)
+- [Level -1 page](http://notpron.com/notpron/levelminusone.htm)
+- Solved by [url](http://notpron.com/notpron/v.htm)
 
 ### 85. LEVEL -2
-- [Level -2 page](http://notpron.org/notpron/v.htm)
-- Solved by [url](https://notpron.org/notpron/symptomatic.htm)
+- [Level -2 page](http://notpron.com/notpron/v.htm)
+- Solved by [url](https://notpron.com/notpron/symptomatic.htm)
 
 ### 86. LEVEL -3
-- [Level -3 page](https://notpron.org/notpron/symptomatic.htm)
-- Solved by [url](https://notpron.org/notpron/peanut/)
+- [Level -3 page](https://notpron.com/notpron/symptomatic.htm)
+- Solved by [url](https://notpron.com/notpron/peanut/)
 
 ### 87. LEVEL -4
-- [Level -4 page](https://notpron.org/notpron/peanut/)
-- Solved by [url](https://notpron.org/notpron/peanut/red.htm)
+- [Level -4 page](https://notpron.com/notpron/peanut/)
+- Solved by [url](https://notpron.com/notpron/peanut/red.htm)
 
 ### 88. LEVEL -5
-- [Level -5 page](https://notpron.org/notpron/peanut/red.htm)
+- [Level -5 page](https://notpron.com/notpron/peanut/red.htm)
 - Solved by [url](http://www.deathball.net/notpron/peanut/pi.php)
 
 ### 89. LEVEL -6
@@ -452,42 +452,42 @@ pron letter inside level = r
 
 ### 91. LEVEL -8
 - [Level -8 page](https://www.deathball.net/notpron/peanut/nobin.htm)
-- Solved by [url](https://notpron.org/notpron/peanut/cage.htm)
+- Solved by [url](https://notpron.com/notpron/peanut/cage.htm)
 
 ### 92. LEVEL -9
-- [Level -9 page](https://notpron.org/notpron/peanut/cage.htm)
-- Solved by [url](https://notpron.org/notpron/peanut/d.htm)
+- [Level -9 page](https://notpron.com/notpron/peanut/cage.htm)
+- Solved by [url](https://notpron.com/notpron/peanut/d.htm)
 
 ### 93. LEVEL -10
-- [Level -10 page](https://notpron.org/notpron/peanut/d.htm)
-- Solved by [url](https://notpron.org/notpron/peanut/latex.php)
+- [Level -10 page](https://notpron.com/notpron/peanut/d.htm)
+- Solved by [url](https://notpron.com/notpron/peanut/latex.php)
 
 ### 94. LEVEL -11
-- [Level -11 page](https://notpron.org/notpron/peanut/latex.php)
-- Solved by [url](https://notpron.org/notpron/peanut/weave.htm)
+- [Level -11 page](https://notpron.com/notpron/peanut/latex.php)
+- Solved by [url](https://notpron.com/notpron/peanut/weave.htm)
 
 ### 95. LEVEL -12
-- [Level -12 page](https://notpron.org/notpron/peanut/weave.htm)
-- Solved by [url](https://notpron.org/notpron/peanut/mirror.htm)
+- [Level -12 page](https://notpron.com/notpron/peanut/weave.htm)
+- Solved by [url](https://notpron.com/notpron/peanut/mirror.htm)
 
 ### 96. LEVEL -13
-- [Level -13 page](https://notpron.org/notpron/peanut/mirror.htm)
-- Solved by [url](https://notpron.org/notpron/peanut/smtp.htm)
+- [Level -13 page](https://notpron.com/notpron/peanut/mirror.htm)
+- Solved by [url](https://notpron.com/notpron/peanut/smtp.htm)
 
 ### 97. LEVEL -14
-- [Level -14 page](https://notpron.org/notpron/peanut/smtp.htm)
-- Solvd by [url](https://notpron.org/notpron/peanut/copy%20of%20smtp.htm)
+- [Level -14 page](https://notpron.com/notpron/peanut/smtp.htm)
+- Solvd by [url](https://notpron.com/notpron/peanut/copy%20of%20smtp.htm)
 
 ### 98. LEVEL -15
-- [Level -15 page](https://notpron.org/notpron/peanut/copy%20of%20smtp.htm)
-- Solved by [url](https://notpron.org/notpron/peanut/7053.htm)
+- [Level -15 page](https://notpron.com/notpron/peanut/copy%20of%20smtp.htm)
+- Solved by [url](https://notpron.com/notpron/peanut/7053.htm)
 
 ### 99. Level -16
-- [level -16 page](https://notpron.org/notpron/peanut/7053.htm)
-- Solved by [url](https://notpron.org/notpron/peanut/extraordinary.htm)
+- [level -16 page](https://notpron.com/notpron/peanut/7053.htm)
+- Solved by [url](https://notpron.com/notpron/peanut/extraordinary.htm)
 
 ### 100. Level -17
-- [Level -17 page](https://notpron.org/notpron/peanut/extraordinary.htm)
+- [Level -17 page](https://notpron.com/notpron/peanut/extraordinary.htm)
 - Solved by [url](https://www.deathball.net/notpron/peanut/gooey.htm)
 
 ### 101. Level -18
@@ -525,7 +525,7 @@ pron letter inside level = r
 ### 109. Level -26
 - [Level -26 page](https://www.deathball.net/notpron/peanut/clockwork.htm)
 - Solved by [url](https://www.deathball.net/notpron/peanut/witch.htm)
-- [Demo book](http://notpron.org/notpron/demonotpronbook.pdf)
+- [Demo book](http://notpron.com/notpron/demonotpronbook.pdf)
 
 
 ### 110. Level -27
@@ -536,7 +536,7 @@ pron letter inside level = r
 ### 111. Level -28
 - [Level -28 page](https://www.deathball.net/notpron/peanut/batch.htm)
 - Solved by [url](https://www.deathball.net/notpron/peanut/hangingonthewall.htm)
-- [Monalisa](http://notpron.org/forum/memberlist.php?mode=viewprofile&u=23171)
+- [Monalisa](http://notpron.com/forum/memberlist.php?mode=viewprofile&u=23171)
 
 ### 112. Level -29
 - [Level -29 page](https://www.deathball.net/notpron/peanut/hangingonthewall.htm)
