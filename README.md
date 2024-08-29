@@ -575,6 +575,11 @@ pron letter inside level = r
 
 ### 119. Level -36
 - [Level -36 page](http://notpron.com/notpron/jerk2/feasibility.php)
+- solved by [url]([http://notpron.com/notpron/jerk2/feasibility.php](https://notpron.com/notpron/jerk2/stereotype.php))
+
+### 120. Level -37
+- [Level -37 page](https://notpron.com/notpron/jerk2/stereotype.php)
+
 
 
 ### IMAGES -32 - DELTA
