@@ -43,3 +43,27 @@
 [LEVEL22](https://www.hakari.io/transmit-signal)
 
 [LEVEL23](https://www.hakari.io/countmein)
+
+[LEVEL24](https://www.hakari.io/cobb)
+
+[LEVEL25](https://www.hakari.io/captain)
+
+[LEVEL26](https://www.hakari.io/inverse)
+
+[LEVEL27](https://www.hakari.io/creativity)
+
+[LEVEL28](https://www.hakari.io/or/not/and/or/01)
+
+[LEVEL29](https://www.hakari.io/not/or/not/and/01)
+
+[LEVEL30](https://www.hakari.io/7JG04a0)
+
+[LEVEL31](https://www.hakari.io/memento-mori)
+
+[LEVEL32](https://www.hakari.io/dark-activity)
+
+[LEVEL33](https://www.hakari.io/central-squares)
+
+[LEVEL34](https://www.hakari.io/something-to-watch)
+
+[LEVEL35](https://www.hakari.io/asenseofstyle)
