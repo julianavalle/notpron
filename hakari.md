@@ -32,4 +32,14 @@
 
 [LEVEL17](https://www.hakari.io/blake/london)
 
-[LEVEL3](https://www.hakari.io/thisorthat)
+[LEVEL18](https://www.hakari.io/thisorthat)
+
+[LEVEL19](https://www.hakari.io/willard)
+
+[LEVEL20](https://www.hakari.io/first-principles)
+
+[LEVEL21](https://www.hakari.io/requiem/have-a-break)
+
+[LEVEL22](https://www.hakari.io/transmit-signal)
+
+[LEVEL23](https://www.hakari.io/countmein)
