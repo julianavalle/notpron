@@ -67,3 +67,11 @@
 [LEVEL34](https://www.hakari.io/something-to-watch)
 
 [LEVEL35](https://www.hakari.io/asenseofstyle)
+
+[LEVEL36](https://www.hakari.io/originally-colombia)
+
+[LEVEL37](https://www.hakari.io/3301/a-mystery)
+
+[LEVEL38](https://www.hakari.io/coffee-please)
+
+
