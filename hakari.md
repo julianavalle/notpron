@@ -74,4 +74,6 @@
 
 [LEVEL38](https://www.hakari.io/coffee-please)
 
+[LEVEL39](https://www.hakari.io/the-rules)
+
 
