@@ -76,4 +76,6 @@
 
 [LEVEL39](https://www.hakari.io/the-rules)
 
+[LEVEL40](https://www.hakari.io/owl)
+
 
