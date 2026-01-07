@@ -588,19 +588,19 @@ pron letter inside level = r
 - [Level -38 page](notpron.com/notpron/jerk2/schumacherstr.php)
 - skippable? [url](http://notpron.com/notpron/jerk2/notpronpwnz.php)
 
-- ### 122. Level -39
+### 122. Level -39
 - [Level -39 page](http://notpron.com/notpron/jerk2/notpronpwnz.php)
-- Solved by coonecting the letters in the german kerboard and finding letter ins the pattern
+- Solved by connecting the letters in the german kerboard and finding letter ins the pattern
 - like VBHT67 = S
 - solved by [url](notpron.com/notpron/jerk2/snoozy.php)
 
-- ### 123. Level -40
+### 123. Level -40
 - [Level -40 page](http://notpron.com/notpron/jerk2/snoozy.php)
 - Solved by going to url notpron/jerk2/phone.wav
 - use dtmf to get the number  88652252
 - then read backwards the letters blackout
 
-- ### 124. Level -41
+### 124. Level -41
 - [Level -41 page](http://notpron.com/notpron/jerk2/blackout1337.php)
 
 
