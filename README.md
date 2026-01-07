@@ -598,7 +598,7 @@ pron letter inside level = r
 - [Level -40 page](http://notpron.com/notpron/jerk2/snoozy.php)
 - Solved by going to url notpron/jerk2/phone.wav
 - use dtmf to get the number  88652252
-- then read backwards the letters blcakout
+- then read backwards the letters blackout
 
 - ### 124. Level -41
 - [Level -41 page](http://notpron.com/notpron/jerk2/blackout1337.php)
