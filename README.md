@@ -631,12 +631,21 @@ pron letter inside level = r
 
 ### 125. Level -42
 - [Level -42 page](https://notpron.com/notpron/jerk2/fell.php)
-- you will see some blurred characters besides de "e" above start (?)
+- you will see some bold characters besides de "e" above start (?)
 - the blurred ones are S, T, I, C, K
 - if you follow them from start to end, you can follow them like a knight moves in chess (in L shape) from the start square to end square.
 
 ### 126. Level -43
 - [Level -43 page](https://notpron.com/notpron/jerk2/stick.php)
+- the forum shows you the picture of [lever -43 image](https://notpron.com/notpron/-43.jpg)
+- download the image
+- in the metadata the artist is ***you name him*** and the image title is ***174465***
+- if you search the number you find Alexander Graham Bell
+- now just go to the [url](https://notpron.com/notpron/mrow/bell.php) 
+
+### 127. Level -44
+- [Level -44 page](https://notpron.com/notpron/jerk2/mrow/bell.php)
+
 
 ### IMAGES -32 - DELTA
 - [Level -32-DELTA images](https://deathball.net/notpron/-32todelta.jpg)
