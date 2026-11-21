@@ -602,6 +602,33 @@ pron letter inside level = r
 
 ### 124. Level -41
 - [Level -41 page](http://notpron.com/notpron/jerk2/blackout1337.php)
+- You need to expand the numbers
+4321
+1
+321
+4
+1
+
+555
+4
+333
+2
+111
+
+1
+2
+3
+4
+-55
+
+1
+5
+3
+4
+333
+
+### 125. Level -42
+- [Level -42 page](https://notpron.com/notpron/jerk2/fell.php)
 
 
 ### IMAGES -32 - DELTA
