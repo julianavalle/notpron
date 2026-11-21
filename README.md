@@ -634,8 +634,9 @@ pron letter inside level = r
 - you will see some blurred characters besides de "e" above start (?)
 - the blurred ones are S, T, I, C, K
 - if you follow them from start to end, you can follow them like a knight moves in chess (in L shape) from the start square to end square.
-- then you will land in https://notpron.com/notpron/jerk2/stick.php page with this in the source code: <!--enter answer in ../mrow/-->
 
+### 126. Level -43
+- [Level -43 page](https://notpron.com/notpron/jerk2/stick.php)
 
 ### IMAGES -32 - DELTA
 - [Level -32-DELTA images](https://deathball.net/notpron/-32todelta.jpg)
